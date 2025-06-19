@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@clerk/nextjs": "^6.21.0",
+    "@clerk/themes": "^2.2.50",
     "@monaco-editor/react": "^4.7.0",
     "@supabase/supabase-js": "^2.50.0",
     "katex": "^0.16.22",
